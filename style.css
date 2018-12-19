@@ -1,5 +1,6 @@
 body {
   max-width: 40em;
+  margin: 0 auto;
   color:indigo;
   background-color: #00b3b3;
  }
