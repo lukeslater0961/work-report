@@ -9,6 +9,7 @@ h1 {
   font-weight: bold;git 
   text-align: center;
   font-family: sans-serif;
+  transition: margin-right 2s;
 }
 H1 {
   text-align: center;
