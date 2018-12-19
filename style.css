@@ -10,10 +10,11 @@ h1 {
   text-align: center;
   font-family: comic;
   font-style: oblique;
+  border-style: outset;
 }
 
 }
 H1 {
   text-align: center;
-}i
-h1 {border-style: outset;}
+  font-family: unset;
+}
