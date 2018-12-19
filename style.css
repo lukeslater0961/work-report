@@ -8,9 +8,9 @@ body {
 h1 {
   font-weight: bold;git 
   text-align: center;
-  font-family: sans-serif;
-  transition-delay: 500mss;
-transition-property: margin-right, color;
+  font-family: comic;
+  
+
 }
 H1 {
   text-align: center;
