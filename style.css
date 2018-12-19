@@ -1,6 +1,5 @@
 body {
   max-width: 40em;
-  margin: 0 auto;
   color:indigo;
   background-color: #00b3b3;
  }
@@ -27,7 +26,7 @@ H1 {
   50%{    color: transparent; }
   99%{    color:transparent;  }
   100%{   color: #000;    }
-}
+}s
 
 
 
@@ -37,7 +36,6 @@ H1 {
 
 
 
-s
 
 
 
