@@ -1,12 +1,12 @@
 body {
   max-width: 40em;
   margin: 0 auto;
-  color: red;
-  background-color: blue;
+  color:lightblue;
+  background-color: lightblue;
 }
 
 h1 {
-  font-weight: bold;
+  font-weight: bold;git 
   text-align: center;
   font-family: sans-serif;
 }
